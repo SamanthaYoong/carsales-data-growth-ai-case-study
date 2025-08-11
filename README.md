@@ -1,4 +1,4 @@
-# 🌐 Driving Data-Enabled Growth Across Carsales’ Core Business Areas  
+#  Driving Data-Enabled Growth Across Carsales’ Core Business Areas  
 ## with an AI-Powered Customer Experience Initiative  
 
 **Candidate:** Samantha Yoong  
