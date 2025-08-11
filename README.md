@@ -1,4 +1,4 @@
-# Driving Data-Enabled Growth Across Carsales’ Core Business Areas  
+# 🌐 Driving Data-Enabled Growth Across Carsales’ Core Business Areas  
 ## with an AI-Powered Customer Experience Initiative  
 
 **Candidate:** Samantha Yoong  
@@ -6,7 +6,7 @@
 
 ---
 
-## Project Overview
+## 🌐 Project Overview
 
 This project simulates and analyzes key business data across Carsales’ core areas — Media, Consumer, and ACIL — to demonstrate how data-driven insights and AI-powered customer experience improvements can deliver measurable commercial impact.
 
@@ -14,7 +14,7 @@ Using Python, I generate synthetic datasets based on realistic assumptions, perf
 
 ---
 
-## Contents
+## 🌐 Contents
 
 - `data_generation.py` — Python scripts to create synthetic datasets simulating user behavior, advertising performance, inventory, and pricing data.  
 - `analysis.py` — Analytical workflows including cohort analysis, funnel analysis, pricing optimization, and AI-powered recommendation modeling.  
@@ -23,7 +23,7 @@ Using Python, I generate synthetic datasets based on realistic assumptions, perf
 
 ---
 
-## Methodology
+## 🌐 Methodology
 
 1. **Data Generation & Preparation**  
    - Synthetic data generated with Python libraries (Pandas, NumPy) reflecting key business metrics.  
@@ -40,7 +40,7 @@ Using Python, I generate synthetic datasets based on realistic assumptions, perf
 
 ---
 
-## Key Findings & Forecasted Business Impacts
+## 🌐 Key Findings & Forecasted Business Impacts
 
 | Core Area      | Metric                             | Forecasted Impact                      |
 |----------------|----------------------------------|--------------------------------------|
@@ -51,7 +51,7 @@ Using Python, I generate synthetic datasets based on realistic assumptions, perf
 
 ---
 
-## Recommendations
+## 🌐 Recommendations
 
 - Scale AI-driven personalization across Carsales’ consumer platform to sustain engagement gains.  
 - Expand dynamic pricing models within ACIL to adapt rapidly to market fluctuations.  
@@ -60,13 +60,13 @@ Using Python, I generate synthetic datasets based on realistic assumptions, perf
 
 ---
 
-## How This Project Aligns with Carsales
+## 🌐 How This Project Aligns with Carsales
 
 This case study showcases my ability to combine technical data skills and business acumen to deliver growth and customer experience improvements across multiple business areas. It reflects Carsales’ values of innovation, agility, and cross-functional teamwork, demonstrating readiness to contribute meaningfully to their data transformation journey.
 
 ---
 
-## Getting Started
+## 🌐 Getting Started
 
 To explore and run the analysis:
 
@@ -80,7 +80,7 @@ jupyter notebook visualization.ipynb
 ```
 ---
 
-## Contact
+## 🌐 Contact
 
 If you have any questions or want to discuss the case study, feel free to reach out:
 
